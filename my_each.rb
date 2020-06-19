@@ -1,7 +1,8 @@
 def my_each 
   
   i = 0 
-  while i 
+  while i < array.length 
+  
   
   # code here
 end
